@@ -1,0 +1,242 @@
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiGuncelle.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDüzenle.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\bdr.exe
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CopyComplete
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiriss.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisss.resources
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe.licenses
+C:\Users\Sedat\source\repos\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGorseller.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\bdr.exe
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Licensing.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiGuncelle.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBrans.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorBilgiDüzenle.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiriss.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorPaneli.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDuyurular.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisss.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGorseller.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmRandevuListesi.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterDetay.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmSekreterGiris.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe.licenses
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CopyComplete
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+D:\Sedat\Final Ödevleri\Görssel Programlama\17410051069-18410051028\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.SuggestedBindingRedirects.cache
